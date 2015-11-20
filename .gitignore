@@ -1,0 +1,11 @@
+build/
+*.pbxuser
+*.perspectivev3
+wax.framework
+xcuserdata
+.DS_Store
+*.xcworkspacedata
+*.xcuserdata
+*.xccheckout
+Pods/
+*.xcworkspace
