@@ -18,6 +18,7 @@ Pod::Spec.new do |s|
   }
 
   s.author             = { "junzhan" => "junzhan.yzw@taobao.com" }
+  s.source       = { :git => 'https://github.com/philonpang/mobdebug.git', :tag => "v#{s.version}" }
 
   s.platform     = :ios
 
